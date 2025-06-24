@@ -1,0 +1,2 @@
+# cark-plugin
+ÇARKÇEVİRME PLUGİNİ
