@@ -1,0 +1,7 @@
+name: Untitled4
+main: org.oyuncozucu.untitled4.Untitled4
+version: 1.0
+api-version: 1.21
+commands:
+  carkcevir:
+    description: Çarkı çevir ve ödül kazan.
